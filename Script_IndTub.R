@@ -1,4 +1,4 @@
-#Usando o pacote dplyr para as manipulações dos dados.
+#Usando o pacote dplyr para as manipulações dos dados
 library(dplyr) 
 
 #Usando o pacote readxl para importar a Base_tuberculose.xls
